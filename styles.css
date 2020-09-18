@@ -4,6 +4,16 @@ body {
     Arial, sans-serif;
 }
 
+h1 {
+    display:inline-block;
+    padding:10px;
+    font-family: "Gill Sans Nova",
+      Arial, sans-serif;
+      font-variant: small-caps;
+      font-weight: 100;
+      color: #f8c62e;
+}
+
 .center {
   display:block;
   margin-left: auto;
