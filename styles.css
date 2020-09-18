@@ -1,21 +1,21 @@
 body {
-  background-color:#000000;
+  background-color: #000000;
   font-family: "Gill Sans Nova",
     Arial, sans-serif;
 }
 
 h1 {
-    display:inline-block;
-    padding:10px;
-    font-family: "Gill Sans Nova",
-      Arial, sans-serif;
-      font-variant: small-caps;
-      font-weight: 100;
-      color: #f8c62e;
+  display: inline-block;
+  padding: 10px;
+  font-family: "Gill Sans Nova",
+    Arial, sans-serif;
+  font-variant: small-caps;
+  font-weight: 100;
+  color: #f8c62e;
 }
 
 .center {
-  display:block;
+  display: block;
   margin-left: auto;
   margin-right: auto;
 }
@@ -24,25 +24,25 @@ ul {
   list-style-type: none;
   margin: 0;
   padding: 0;
-  width:80%;
+  width: 80%;
 }
 
 li {
-  display:inline-block;
-  padding:10px;
+  display: inline-block;
+  padding: 10px;
   font-family: "Gill Sans Nova",
     Arial, sans-serif;
-    font-variant: small-caps;
-    font-weight: 100;
-    color: #f8c62e;
+  font-variant: small-caps;
+  font-weight: 100;
+  color: #f8c62e;
 }
 
 footer {
-  display:inline-block;
-  padding:10px;
+  display: inline-block;
+  padding: 10px;
   font-family: "Gill Sans Nova",
     Arial, sans-serif;
-    font-variant: small-caps;
-    font-weight: 100;
-    color: #f8c62e;
+  font-variant: small-caps;
+  font-weight: 100;
+  color: #f8c62e;
 }
