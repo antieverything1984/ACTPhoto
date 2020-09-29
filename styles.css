@@ -5,11 +5,11 @@ body {
 }
 
 Media query syntax in CSS: @media only screen and (min-width: 600px) {
-  /* Styles for smallest screens go here */
 
-ul {
-        margin: 3px auto 3px auto;
-        text-align: center;
+  /* Styles for smallest screens go here */
+  ul {
+    margin: 3px auto 3px auto;
+    text-align: center;
   }
 }
 
@@ -17,9 +17,21 @@ body {
   text-align: center;
 }
 
+h1 { color: gold;
+  font-family: "Gill Sans Nova",
+    Arial, sans-serif;}
+
+    h2 { color: grey;
+      font-family: "Gill Sans Nova",
+        Arial, sans-serif;}
+
+        h3 { color: white; 
+          font-family: "Gill Sans Nova",
+            Arial, sans-serif;}
+
 img.aligned-img {
-  width: 25%;
-  height: 25%;
+  width: 35%;
+  height: 35%;
   margin: 1px;
 }
 
