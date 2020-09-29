@@ -18,10 +18,9 @@ body {
 }
 
 img.aligned-img {
-  width: 40%;
-  height: 40%;
-  margin: 5px;
-  text-align: left;
+  width: 25%;
+  height: 25%;
+  margin: 1px;
 }
 
 ul {
@@ -30,8 +29,7 @@ ul {
 }
 
 ul.aligned-ul {
-  margin: 2px;
-  text-align: center;
+  margin: auto;
 }
 
 a:link {
