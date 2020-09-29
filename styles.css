@@ -4,12 +4,37 @@ body {
     Arial, sans-serif;
 }
 
-.center {
-  align-self: auto;
-  margin: auto;
+Media query syntax in CSS: @media only screen and (min-width: 600px) {
+  /* Styles for smallest screens go here */
+
+ul {
+        margin: 3px auto 3px auto;
+        text-align: center;
+  }
 }
 
-a:link{
+body {
+  text-align: center;
+}
+
+img.aligned-img {
+  width: 40%;
+  height: 40%;
+  margin: 5px;
+  text-align: left;
+}
+
+ul {
+  width: 450px;
+  padding: 50px;
+}
+
+ul.aligned-ul {
+  margin: 2px;
+  text-align: center;
+}
+
+a:link {
   color: #f8c62e;
   text-decoration: none;
 }
