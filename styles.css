@@ -5,19 +5,17 @@ body {
 }
 
 @media only screen and (min-width: 600px) {
-  /* Styles for small ass screens go here */
-
+  /* Styles for lil ass screens go here */
 }
 
 @media only screen and (min-width: 1000px) {
   /* Styles for normal ass Screens screens go here */
-
 }
 
 @media only screen and (min-width: 1400px) {
   /* Styles for big ass screens go here */
-
 }
+
 nav ul {
   margin: 3px auto 3px auto;
   align: center;
